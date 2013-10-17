@@ -1,2 +1,5 @@
 新しいファイルを追加。
 branch:masterにこのファイルを登録。
+branch:testingにこの行を登録。
+
+branch:masterとbranch:testingを合体（merge）
